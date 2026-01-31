@@ -1,4 +1,4 @@
-Rosalind (https://github.com/IsabelleAP/Rosalind.git) é uma plataforma web para aprender bioinformática através da resolução de problemas. Cada questão cresce em complexidade biológica
+Rosalind (https://rosalind.info/about/) é uma plataforma web para aprender bioinformática através da resolução de problemas. Cada questão cresce em complexidade biológica
 e computacional e as resoluções são verificadas automaticamente através do output dado de acordo com o conjunto de dados entregue.
 
 Problemas de **Bioinformatics Stronghold**
