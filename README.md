@@ -6,6 +6,6 @@ https://github.com/IsabelleAP/Rosalind/blob/main/Complementing_strand_DNA.py
 https://github.com/IsabelleAP/Rosalind/blob/main/Counting_DNA_nucleotides.py
 https://github.com/IsabelleAP/Rosalind/blob/main/Transcribing_DNA_into_RNA.py
 
-Problemas de **Bioinformatics Armory**
+Problemas de **Bioinformatics Armory** <br>
 https://github.com/IsabelleAP/Rosalind/blob/main/Genbank_introduction.py
 
